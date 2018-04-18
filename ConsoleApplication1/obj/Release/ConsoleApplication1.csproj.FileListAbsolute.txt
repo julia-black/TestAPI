@@ -1,0 +1,10 @@
+D:\Programming\GoodRoadAPI\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\Programming\GoodRoadAPI\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Programming\GoodRoadAPI\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Programming\GoodRoadAPI\ConsoleApplication1\bin\Release\Newtonsoft.Json.dll
+D:\Programming\GoodRoadAPI\ConsoleApplication1\bin\Release\System.Net.Http.Formatting.dll
+D:\Programming\GoodRoadAPI\ConsoleApplication1\bin\Release\Newtonsoft.Json.xml
+D:\Programming\GoodRoadAPI\ConsoleApplication1\bin\Release\System.Net.Http.Formatting.xml
+D:\Programming\GoodRoadAPI\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Programming\GoodRoadAPI\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Programming\GoodRoadAPI\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
